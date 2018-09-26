@@ -1,8 +1,3 @@
-/*
-Maamar Bousseloub
-CIS 2168
-Stringcoll
- */
 package stringcoll;
 
 import java.util.*;

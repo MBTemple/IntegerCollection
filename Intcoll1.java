@@ -1,9 +1,3 @@
-/*
-Maamar Bousseloub
-CIS 2168.009
-Intcoll1
- */
-
 import java.util.*;
 
 public class Intcoll1 {

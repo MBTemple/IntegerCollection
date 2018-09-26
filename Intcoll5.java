@@ -1,8 +1,3 @@
-/*
-Maamar Bousseloub
-CIS 2168.009
-Intcoll5
- */
 package intcoll5;
 
 import java.util.*;
